@@ -2,8 +2,8 @@ import { Route, Routes } from 'react-router-dom'
 import './App.css'
 import Layout from './components/layout'
 import HomePage from './pages/home/HomePage'
-import PortfolioPage from './pages/portfolio/portfolioPage'
 import DetailPage from './pages/portfolio/components/DetailPage'
+import PortfolioPage from './pages/portfolio/PortfolioPage'
 
 function App() {
 
